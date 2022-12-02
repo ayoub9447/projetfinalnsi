@@ -15,7 +15,7 @@ DECOUVERTE(S) ET COMMENTAIRE(S):
 
 -Regarder la derivée d'un pixel "différence entre les pixels cote a cote" (regarder toute les directions). 
 
--
+-calculer l'écart entre deux image (la distance)
 
 
 
